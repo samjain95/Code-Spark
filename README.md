@@ -66,6 +66,15 @@ Ensure you have the following installed:
 ### Home Page
 ![Home Page](screenshots/home-page.png)
 
+### Courses Available
+![Home Page](screenshots/courses.png)
+
+### User Login Page
+![Home Page](screenshots/user-login.png)
+
+### User Purchased Courses
+![Home Page](screenshots/user-profile.png)
+
 ### Admin Dashboard
 ![Admin Dashboard](screenshots/admin-dashboard.png)
 
